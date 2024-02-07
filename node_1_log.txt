@@ -1,0 +1,9 @@
+Currently: Follower   Message SENT to          localhost:10002 ==> Term number : 10  ||   Message  Content : Hello
+Currently: Follower   Message RECEIVED from    localhost:10002 ==> Term number : 11  ||   Message  Content : Hello
+Currently: Follower   Message RECEIVED from    localhost:10004 ==> Term number : 10  ||   Message  Content : Hello
+Currently: Follower   Message RECEIVED from    localhost:10003 ==> Term number : 8  ||   Message  Content : Hello
+Currently: Follower   Message RECEIVED from    localhost:10005 ==> Term number : 16  ||   Message  Content : Hello
+Currently: Follower   Message RECEIVED from    localhost:10005 ==> Term number : 17  ||   Message  Content : I am the NEW LEADER
+Currently: Follower   Message SENT to          localhost:10003 ==> Term number : 16  ||   Message  Content : Hello
+Currently: Follower   Message SENT to          localhost:10004 ==> Term number : 17  ||   Message  Content : Hello
+Currently: Follower   Message SENT to          localhost:10005 ==> Term number : 18  ||   Message  Content : Hello

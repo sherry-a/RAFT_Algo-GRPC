@@ -1,0 +1,12 @@
+Currently: Candidate   Message SENT to          localhost:10001 ==> Term number : 15  ||   Message  Content : Hello
+Currently: Leader   Message SENT to          localhost:10001 () ==> Term number : 16  ||   Message  Content : I am the NEW LEADER
+Currently: Leader   Message SENT to          localhost:10002 () ==> Term number : 17  ||   Message  Content : I am the NEW LEADER
+Currently: Leader   Message SENT to          localhost:10003 () ==> Term number : 18  ||   Message  Content : I am the NEW LEADER
+Currently: Leader   Message SENT to          localhost:10004 () ==> Term number : 19  ||   Message  Content : I am the NEW LEADER
+Currently: Leader   Message SENT to          localhost:10002 ==> Term number : 20  ||   Message  Content : Hello
+Currently: Leader   Message SENT to          localhost:10003 ==> Term number : 21  ||   Message  Content : Hello
+Currently: Leader   Message SENT to          localhost:10004 ==> Term number : 22  ||   Message  Content : Hello
+Currently: Leader   Message RECEIVED from    localhost:10004 ==> Term number : 17  ||   Message  Content : Hello
+Currently: Leader   Message RECEIVED from    localhost:10003 ==> Term number : 16  ||   Message  Content : Hello
+Currently: Leader   Message RECEIVED from    localhost:10002 ==> Term number : 19  ||   Message  Content : Hello
+Currently: Leader   Message RECEIVED from    localhost:10001 ==> Term number : 19  ||   Message  Content : Hello
